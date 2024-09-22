@@ -1,0 +1,24 @@
+"/Users/adirsl/Documents/GitHub/wadido/node_modules/@capacitor/ios/Capacitor/Capacitor/UIColor.swift":
+  swift-dependencies: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/UIColor.swiftdeps"
+  object: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/UIColor.o"
+  const-values: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/UIColor.swiftconstvalues"
+  dependencies: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/UIColor.d"
+  diagnostics: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/UIColor.dia"
+"/Users/adirsl/Documents/GitHub/wadido/node_modules/@capacitor/ios/Capacitor/Capacitor/PluginConfig.swift":
+  diagnostics: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/PluginConfig.dia"
+  object: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/PluginConfig.o"
+  const-values: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/PluginConfig.swiftconstvalues"
+  swift-dependencies: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/PluginConfig.swiftdeps"
+  dependencies: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/PluginConfig.d"
+"/Users/adirsl/Documents/GitHub/wadido/node_modules/@capacitor/ios/Capacitor/Capacitor/Router.swift":
+  dependencies: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/Router.d"
+  const-values: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/Router.swiftconstvalues"
+  swift-dependencies: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/Router.swiftdeps"
+  diagnostics: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/Router.dia"
+  object: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/Router.o"
+"/Users/adirsl/Documents/GitHub/wadido/node_modules/@capacitor/ios/Capacitor/Capacitor/TmpViewController.swift":
+  object: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/TmpViewController.o"
+  diagnostics: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/TmpViewController.dia"
+  dependencies: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/TmpViewController.d"
+  const-values: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/TmpViewController.swiftconstvalues"
+  swift-dependencies: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/TmpViewController.swiftdeps"

@@ -1,0 +1,24 @@
+"/Users/adirsl/Documents/GitHub/wadido/node_modules/@capacitor/ios/Capacitor/Capacitor/JSExport.swift":
+  object: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/JSExport.o"
+  const-values: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/JSExport.swiftconstvalues"
+  dependencies: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/JSExport.d"
+  diagnostics: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/JSExport.dia"
+  swift-dependencies: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/JSExport.swiftdeps"
+"/Users/adirsl/Documents/GitHub/wadido/node_modules/@capacitor/ios/Capacitor/Capacitor/JS.swift":
+  swift-dependencies: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/JS.swiftdeps"
+  diagnostics: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/JS.dia"
+  dependencies: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/JS.d"
+  object: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/JS.o"
+  const-values: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/JS.swiftconstvalues"
+"/Users/adirsl/Documents/GitHub/wadido/node_modules/@capacitor/ios/Capacitor/Capacitor/DocLinks.swift":
+  object: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/DocLinks.o"
+  swift-dependencies: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/DocLinks.swiftdeps"
+  dependencies: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/DocLinks.d"
+  const-values: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/DocLinks.swiftconstvalues"
+  diagnostics: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/DocLinks.dia"
+"/Users/adirsl/Documents/GitHub/wadido/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/HttpRequestHandler.swift":
+  dependencies: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/HttpRequestHandler.d"
+  object: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/HttpRequestHandler.o"
+  swift-dependencies: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/HttpRequestHandler.swiftdeps"
+  diagnostics: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/HttpRequestHandler.dia"
+  const-values: "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/HttpRequestHandler.swiftconstvalues"

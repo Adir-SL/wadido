@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/App-master.dia",
+    "emit-module-dependencies" : "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/App-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/App-master-emit-module.dia",
+    "swift-dependencies" : "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/App-master.swiftdeps"
+  },
+  "/Users/adirsl/Documents/GitHub/wadido/ios/App/App/AppDelegate.swift" : {
+    "const-values" : "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/adirsl/Documents/GitHub/wadido/ios/DerivedData/B6C9A9B1-027B-440F-A5C5-A00380E1562E/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
